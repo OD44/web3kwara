@@ -17,7 +17,7 @@ const Available = () => {
           </div>
           <h1 className='text-2xl'>Decentralized Finance (DeFi) Symposium</h1>
           <p className='text-[gray]'>A deep dive into the world of DeFi, exploring how decentralized financial solutions can benefit individuals in Kwara State.</p>
-          <p className='text-Button'>Fri, may 27, 8: 30 AM</p>
+          <p className='text-Button'>Fri, may 27, 8: 30   PM</p>
         </div>
         <div className='w-full flex flex-col gap-3'>
           <Image height={100} width={100} src={"/Event2.png"} className='h-[20vh] w-[100%]'/>
